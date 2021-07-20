@@ -12,7 +12,7 @@
     "@cubejs-client/react": "^0.7.6",
     "moment": "^2.24.0",
     "react": "16.8.3",
-    "react-native": "0.59.3",
+    "react-native": "0.62.3",
     "react-native-svg": "^9.6.4",
     "react-navigation": "^3.8.1",
     "victory-native": "^32.0.2"
